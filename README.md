@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Yutaka. I'm interested in Data Structures and Algorithms.
 
 
 <!--
