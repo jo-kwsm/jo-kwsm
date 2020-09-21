@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 <a href="https://kenkoooo.com/atcoder#/user/mahala_coder">
   <img src="https://img.shields.io/website?down_color=yellow&down_message=solve&label=AtCoder&style=for-the-badge&up_color=green&up_message=solve&url=https://kenkoooo.com/atcoder#/user/mahala_coder" />
 </a>
+<br>
 <a href="https://codeforces.com/profile/mahala_coder">
   <img src="https://img.shields.io/badge/-Codeforces-1f8ACB?style=flat-square&logo=Codeforces&logoColor=white"/>
   <br>
