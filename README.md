@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Yutaka. I'm interested in Data Structures and Algorithms.
 
-
 <!--
 **jo-kwsm/jo-kwsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +20,6 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.yiskw713.vercel.app/api/top-langs/?username=jo-kwsm&hide=jupyter%20notebook&layout=compact&theme=radical" />
 </p>
 
-<br>
 
 ### My Skills
 
@@ -46,7 +44,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 </p>
 
+
 ### I love competitive programinng.
+<a href="https://kenkoooo.com/atcoder#/user/Valkyrja">
+  <img src="https://img.shields.io/website?down_color=yellow&down_message=solve&label=AtCoder&style=for-the-badge&up_color=green&up_message=solve&url=https://kenkoooo.com/atcoder#/user/mahala_coder" />
+</a>
 <a href="https://codeforces.com/profile/mahala_coder">
   <img src="https://img.shields.io/badge/-Codeforces-1f8ACB?style=flat-square&logo=Codeforces&logoColor=white"/>
   <br>
