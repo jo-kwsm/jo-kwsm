@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" src="https://github-readme-stats.yiskw713.vercel.app/api?username=jo-kwsm&count_private=true&show_icons=true&theme=highcontrast" />
+<img align="left" src="https://github-readme-stats.yiskw713.vercel.app/api?username=jo-kwsm&hide=stars&count_private=true&show_icons=true&theme=highcontrast" />
 <img src="https://github-readme-stats.yiskw713.vercel.app/api/top-langs/?username=jo-kwsm&hide=jupyter%20notebook&layout=compact&theme=highcontrast" />
