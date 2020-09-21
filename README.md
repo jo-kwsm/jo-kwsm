@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p>
 <img align="left" src="https://github-readme-stats.yiskw713.vercel.app/api?username=jo-kwsm&hide=stars,issues&count_private=true&show_icons=true&theme=radical" />
 <img src="https://github-readme-stats.yiskw713.vercel.app/api/top-langs/?username=jo-kwsm&hide=jupyter%20notebook&layout=compact&theme=radical" />
+</p>
 
 <p>
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
