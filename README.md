@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Yutaka.I'm a master student at Keio University. My major is Computer Vision, and I'm interested in Machine Learning.
+### Hi there 👋 I'm Yutaka. I'm a master student at Keio University. My major is Computer Vision, and I'm interested in Machine Learning.
 
 <!--
 **jo-kwsm/jo-kwsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
